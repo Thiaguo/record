@@ -21,6 +21,6 @@ function mostrarResposta(){
     setTimeout(function(){
         resposta.style.opacity = 0;
         button.removeAttribute("disabled");
-        //Abilita Novamente o Botão
+        //habilita Novamente o Botão
     }, 3000);
 }
